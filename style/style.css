@@ -1,0 +1,61 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main
+{
+
+    background-color: #1E1F21;
+    margin: 10%;
+    height: 700px;
+  
+  
+
+
+}
+.image
+{
+    width: 40%;
+    background-image: url(../asset/mypic.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    box-shadow: 10px 1px 20px rgba(0, 0, 0, 0.5);
+    color: white;
+  
+
+}
+
+.text_position
+{
+  text-align: center  ;
+  padding-top: 600px;
+  line-height: 2px;
+}
+.designation
+{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(201, 167, 17);
+   
+}
+
+
+
+.contentdiv
+{
+  
+    width: 57%;
+    float: right;
+    color: white ;
+    padding: 16px;
+    margin-top: 50px;
+    
+    
+}
+
+.shortdetail
+{
+    font-style: italic;
+    color: rgb(201, 167, 17)
+}
